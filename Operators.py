@@ -1,4 +1,4 @@
-'''
+
 #Arithmeticoperators
 c=2
 d=5
@@ -54,7 +54,7 @@ j=10
 
 print(i is j)
 print(i is not j)
-'''
+
 #Bitwiseoperator
 k=10
 m=8
@@ -64,4 +64,5 @@ print(bin(m))
 
 print(k&m,bin(k&m))  
 print(k|m,bin(k|m))
+
 print(k^m,bin(k^m))
