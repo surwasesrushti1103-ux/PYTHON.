@@ -1,2 +1,2 @@
-# PYTHON-Basics
+# PYTHON.
 Basics need to learn
